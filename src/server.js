@@ -1,4 +1,3 @@
-//17.8 Project boilerplate
 //server.js to start our server on an appropriate port
 
 const app = require('./app')

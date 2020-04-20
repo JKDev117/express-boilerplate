@@ -1,6 +1,4 @@
-//17.8 Project boilerplate
 //our first basic test
-
 
 const app = require('../src/app')
 

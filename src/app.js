@@ -1,4 +1,3 @@
-//17.8 Project boilerplate
 //app.js to export the app ready for integration testing
 
 require('dotenv').config()
